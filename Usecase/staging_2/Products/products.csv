@@ -1,0 +1,12 @@
+product_id,product_name,brand_id,category_id,model_year,list_price,Extract_time,Source
+1,Trek 820 - 2016,9,6,2016,379.99,2024-05-02 11:57:31.921611,Datalake
+2,Ritchey Timberwolf Frameset - 2016,5,6,2016,749.99,2024-05-02 11:57:31.921611,Datalake
+3,Surly Wednesday Frameset - 2016,8,6,2016,999.99,2024-05-02 11:57:31.921611,Datalake
+4,Trek Fuel EX 8 29 - 2016,9,6,2016,2899.99,2024-05-02 11:57:31.921611,Datalake
+5,Heller Shagamaw Frame - 2016,3,6,2016,1320.99,2024-05-02 11:57:31.921611,Datalake
+9,Trek Conduit+ - 2016,9,5,2016,2999.99,2024-05-02 11:57:31.921611,Datalake
+14,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,1,3,2016,269.99,2024-05-02 11:57:31.921611,Datalake
+14,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,1,3,2016,269.99,2024-05-02 11:57:31.921611,Datalake
+17,Pure Cycles Vine 8-Speed - 2016,4,3,2016,429.0,2024-05-02 11:57:31.921611,Datalake
+22,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,1,1,2016,269.99,2024-05-02 11:57:31.921611,Datalake
+60,Sun Bicycles ElectroLite - 2017,7,5,2017,1559.99,2024-05-02 11:57:31.921611,Datalake
